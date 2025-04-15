@@ -1,0 +1,19 @@
+{
+  "name": "cli-number-game18",
+  "version": "1.0.0",
+  "description": "cli base 1st game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+"bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.5.2"
+  }
+}
